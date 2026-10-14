@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 協作開發工作流"
+  short_description: "以證據驅動 AI 協作開發、獨立審查、測試與風險驗收"
+  default_prompt: "使用 $ai-collaborative-development，依照需求、審查、測試、RCA 與風險控制完成這次 AI 協作開發。"
+
+policy:
+  allow_implicit_invocation: true
