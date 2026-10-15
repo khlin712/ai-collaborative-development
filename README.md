@@ -8,7 +8,7 @@
 - `skills/ai-collaborative-development/references/reviewers.md`：Code reviewer、Report reviewer、RCA 官方 prompt
 - `skills/ai-collaborative-development/references/workflow.md`：完整開發流程與品質關卡
 - `skills/ai-collaborative-development/references/rca-watchdog.md`：RCA 病例庫與 Watchdog 設計
-- `assets/ai-collaborative-development-infographic.png`：快速說明圖
+- `ai-collaborative-development-infographic.png`：快速說明圖
 
 ## 使用
 
